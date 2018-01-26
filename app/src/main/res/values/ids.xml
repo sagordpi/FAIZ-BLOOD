@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="web" type="id" />
+    <item name="progressBar1" type="id" />
+    <item name="activity_blood_area" type="id" />
+</resources>

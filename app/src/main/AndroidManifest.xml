@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.redappsbd.faizblood.faizblood">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- Splash screen -->
+        <activity
+            android:name="com.redappsbd.faizblood.faizblood.SplashScreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".BloodGroup"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".BloodArea"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".MemberRegistration"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".Bloodaplus"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".Bloodaminus"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".Bloodbp"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".Bloodbn"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".Bloodop"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".Bloodon"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".Bloodabp"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".Bloodabn"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".FbGroup"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".FbPage"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".WebFB"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".VolunteerReg"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".VolunteerLogin"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".tips_for_donor"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".about_apps"
+            android:screenOrientation="portrait">
+        </activity>
+
+
+
+    </application>
+
+</manifest>

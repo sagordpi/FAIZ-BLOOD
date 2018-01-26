@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Faiz Foundation Blood Donors</string>
+    <string name="group_page">Search BY Blood Group</string>
+    <string name="theader">Tips for Donor</string>
+    <string name="t1">Before Your Donation </string>
+    <string name="t11">
+        Blood Donation Tip - Eat HealthyMaintain a healthy iron level in your diet by eating iron rich foods, such as red meat, fish, poultry, beans, spinach, iron-fortified cereals and raisins.
+Get a good nights sleep. \n \n
+
+Drink an extra 16 oz. of water or nonalcoholic fluids before the donation. \n \n
+
+Eat a healthy meal before your donation. Avoid fatty foods, such as hamburgers, fries or ice cream before donating.(Fatty foods can affect the tests we do on your blood.If there is too much fat in your blood, your donation cannot be tested for infectious diseases and the blood will not be used for transfusion.)
+ \n \n
+If you are a platelet donor, remember that your system must be free of aspirin for two days prior to donation.
+ \n \n
+Remember to bring your donor card, driver's license or two other forms of ID.
+
+    </string>
+    <string name="t2">During Your Donation </string>
+    <string name="t22">
+        Wear clothing with sleeves that can be raised above the elbow.\n \n
+Let the person taking your blood know if you have a preferred arm and show them any good veins that have been used successfully in the past to draw blood.
+\n \n
+        Relax, listen to music, talk to other donors or read during the donation process.
+\n \n
+        Take the time to enjoy a snack and a drink in the refreshments area immediately after donating.
+
+    </string>
+    <string name="t3">After Your Donation </string>
+    <string name="t33">
+        Drink an extra four (8 ounce) glasses of liquids and avoid alcohol over the next 24 hours.
+        \n \n
+Keep the strip bandage on for the next several hours.
+        \n \n
+To avoid a skin rash, clean the area around the strip bandage with soap and water.
+        \n \n
+Do not do any heavy lifting or vigorous exercise for the rest of the day.
+        \n \n
+If the needle site starts to bleed, apply pressure to it and raise your arm straight up for about 5-10 minutes or until bleeding stops.
+\n \n
+        If you experience dizziness or lightheadedness after donation, stop what you are doing and sit down or lie down until you feel better. Avoid performing any activity where fainting may lead to injury for at least 24 hours.
+\n \n
+
+    </string>
+    <string name="a1">About this App </string>
+    <string name="a2">
+        Faiz Foundation Blood Donors
+        \n \n
+About
+         \n \n
+We donate blood ourselves and encourage others to donate blood to save lives.
+We are the selfless bridge between the person needs blood and the blood donors.
+         \n \n
+
+        FIND US
+        \n \n
+Plot # 71, Road # 17, Block # C, Banani, Dhaka-1213\n \n
+Dhaka, Bangladesh\n \n
+
+Call 01875-351005
+
+    </string>
+    <string name="d1">About Developer </string>
+    <string name="d2">
+       Developed BY Expert IT Solution
+        \n \n
+        Call +88 01766 40 98 19
+         \n \n
+Web : https://www.expertitbd.com
+
+    </string>
+
+
+
+</resources>
